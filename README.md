@@ -1,4 +1,4 @@
-# Raspberry Pi C dec2bin
+# Raspberry Pi C Decimal to Binary
 
 A little C program written on my Raspberry Pi to brush up on my aging C programming language knowledge.  
 
